@@ -1,0 +1,8 @@
+# Ignore generated audit exports and local PowerShell artifacts
+*_20[0-9][0-9][0-1][0-9][0-3][0-9]/
+DeviceAudit_*/
+LicenseAudit_*/
+*.csv
+*.log
+*.tmp
+.DS_Store
